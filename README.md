@@ -1,4 +1,12 @@
-# Bluetooth термометр
+# Bluetooth термометр на базі ESP32 та DHT11
+
+<p align="center">
+    <img src="https://github.com/Petro-Khlyshchyborshch/Esp32_bluetooth_termometr/blob/main/Esp32_bluetooth_termometr/Photo/photo_device.jpg" width="480">
+</p>
+<p align="center">
+    <img src="https://github.com/petro228/Esp32_bluetooth_termometr/blob/main/Esp32_bluetooth_termometr/Photo/android.png" width="240">
+</p>
+
 ## Android програма
 <p>Розпочнемо з аndroid програми. Для створення Adroid програм компанія Google створила власне ide – Android Studio. Най ефективніша та найзручніша ide для розробки Adroid програм, розуміє з пів слова(більшість однотипних, або часто використовуваних функцій оголошуються та створюється «каркас» автоматично, це ж саме можна сказати про конструктори класів та перевизначення абстрактних функцій).</p>
 <p>З вибором середовища розробки розібрались, а яку мову використовувати? Існує 2 варіанти – Java та Kotlin. Ці дві мови дуже схожі між собою (якщо розмовляти про Adroid розробку), проте у Java є перевага – велика кількість навчального матеріалу, так як існує набагато довше ніж Kotlin, тому як початківцю, вибір припав саме на Java.</p>
@@ -249,7 +257,9 @@ void setup() {
 
 <p>Ось як виглядає програма на Android пристрої:</p>
 
-![](https://github.com/petro228/Esp32_bluetooth_termometr/blob/main/Esp32_bluetooth_termometr/Photo/android.png)
+<p align="center">
+    <img src="https://github.com/petro228/Esp32_bluetooth_termometr/blob/main/Esp32_bluetooth_termometr/Photo/android.png" width="300">
+</p>
 
 
 
